@@ -1,0 +1,6 @@
+a=int(input("Podaj 1 liczbe:"))
+b=int(input("Podaj 2 liczbe:"))
+print("ich suma to =",a+b)
+print("ich różnica to =",a-b)
+print("ich iloczyn to =",a*b)
+print("ich iloraz to =",a/b)
